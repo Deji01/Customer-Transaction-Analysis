@@ -10,7 +10,15 @@ ANZ Customer Transaction Data Analysis This analysis is based on a synthesised t
 ##   Libraries Used
 
 ### Python
--
+- datetime
+- IPython
+- matplotlib
+- math
+- numpy
+- pandas
+- plotly
+- seaborn
+
 ### R
 - stringr 
 - lubridate
